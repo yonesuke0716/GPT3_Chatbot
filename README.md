@@ -3,8 +3,9 @@
 ## 実行環境：
 OpenAIとStreamlitのインストールが必要です。
 
-pip install openai
-pip install streamlit
+$ pip install openai
+
+$ pip install streamlit
 
 ## 実行方法：
 $ streamlit run app.py
